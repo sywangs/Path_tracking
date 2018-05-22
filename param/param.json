@@ -1,12 +1,1 @@
-{"db":"dashboard",
-"dbHost":"52.162.166.103",
-"dbUserName":"vmaxx",
-"dbPwd":"Xjtu123456",
-"imgheight":"2250",
-"imgwidth":"1875",
-"imgscale":"1",
-"storageAccount":"vmaxx",
-"accountKey":"MOQ77kfnjGVv6rBZB8wiHXfKWg/vmGbGfsvr7llxXjvvUrCx2bg+q1gfGkFghZojeAGmhDzTnyIRRR7Hk53OjA==",
-"popQueue":"heatmap",
-"AZURE_BINARY":"/usr/bin/az",
-"ANACONDA_BINARY":"/home/huang/anaconda2/bin/python"}
+
